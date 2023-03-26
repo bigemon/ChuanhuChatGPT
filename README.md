@@ -15,6 +15,8 @@
 
 ⚠️请在遵循您所在地区法律法规的前提下使用⚠️
 
+⚠️本Repo只会在[主线仓库](https://github.com/GaiZhenbiao/ChuanhuChatGPT)版本稳定时进行同步,数据具有一定滞后性⚠️
+
 ## 引导示例
 
 <img width="1010" alt="image" src="https://user-images.githubusercontent.com/3683548/223109242-8a7aa98f-c09c-4521-a5c2-69be717e592d.png">
